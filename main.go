@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/kkpoon/acectl/cmd"
+import "github.com/clustertech-dev/acectl/cmd"
 
 func main() {
 	cmd.Execute()
